@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    juan:
+      email: juan@gmail.com
+      name: Juan Pérez
+      password: $2b$12$DSi4WkRTt9kqXcSqLn0Lvu9plahAa99F.mzcYBL38VCRZfO9edCvu
+    luis:
+      email: luis@gmail.com
+      name: Luis Rodríguez
+      password: $2b$12$3bZOvPZIdeRiIo4bdD1YsOgrVTgiSHjjbE2iIqXF3LJKZ/JX.qyuK
+cookie:
+  expiry_days: 1
+  key: random_signature_key
+  name: mi_app_cookie
+preauthorized:
+  emails: []
